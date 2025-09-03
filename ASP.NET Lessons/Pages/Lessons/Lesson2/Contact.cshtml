@@ -1,0 +1,14 @@
+﻿@page
+@model ASP.NET_Lessons.Pages.Lessons.Lesson2.ContactModel
+@{
+}
+
+<form method="post">
+    <input type="text" asp-for="Name" placeholder="Type your name" />
+    <button type="submit">Submit</button>
+</form>
+
+@if(!string.IsNullOrEmpty(Model.Message))
+{
+    <h2>@Model.Message</h2>
+}

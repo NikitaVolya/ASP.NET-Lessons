@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ASP.NET_Lessons
+build_property.RootNamespace = ASP.NET_Lessons
+build_property.ProjectDir = F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[F:/Projects/asp-dot-net/ASP.NET Lessons/ASP.NET Lessons/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Projects/asp-dot-net/ASP.NET Lessons/ASP.NET Lessons/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Projects/asp-dot-net/ASP.NET Lessons/ASP.NET Lessons/Pages/Lessons/Lesson2/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVzc29uc1xMZXNzb24yXENvbnRhY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Projects/asp-dot-net/ASP.NET Lessons/ASP.NET Lessons/Pages/Lessons/Lesson2/Feedback.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVzc29uc1xMZXNzb24yXEZlZWRiYWNrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Projects/asp-dot-net/ASP.NET Lessons/ASP.NET Lessons/Pages/Lessons/Lesson2/Hello.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVzc29uc1xMZXNzb24yXEhlbGxvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Projects/asp-dot-net/ASP.NET Lessons/ASP.NET Lessons/Pages/Lessons/Lesson2/Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVzc29uc1xMZXNzb24yXEluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Projects/asp-dot-net/ASP.NET Lessons/ASP.NET Lessons/Pages/Lessons/Lesson2/Product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVzc29uc1xMZXNzb24yXFByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Projects/asp-dot-net/ASP.NET Lessons/ASP.NET Lessons/Pages/Lessons/Lesson2/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVzc29uc1xMZXNzb24yXFNlYXJjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Projects/asp-dot-net/ASP.NET Lessons/ASP.NET Lessons/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Projects/asp-dot-net/ASP.NET Lessons/ASP.NET Lessons/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Projects/asp-dot-net/ASP.NET Lessons/ASP.NET Lessons/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Projects/asp-dot-net/ASP.NET Lessons/ASP.NET Lessons/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Projects/asp-dot-net/ASP.NET Lessons/ASP.NET Lessons/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-b0js0jb0ug

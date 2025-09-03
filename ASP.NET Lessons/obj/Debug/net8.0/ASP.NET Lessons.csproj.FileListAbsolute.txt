@@ -1,0 +1,33 @@
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\bin\Debug\net8.0\appsettings.Development.json
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\bin\Debug\net8.0\appsettings.json
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\bin\Debug\net8.0\ASP.NET Lessons.staticwebassets.runtime.json
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\bin\Debug\net8.0\ASP.NET Lessons.staticwebassets.endpoints.json
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\bin\Debug\net8.0\ASP.NET Lessons.exe
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\bin\Debug\net8.0\ASP.NET Lessons.deps.json
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\bin\Debug\net8.0\ASP.NET Lessons.runtimeconfig.json
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\bin\Debug\net8.0\ASP.NET Lessons.dll
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\bin\Debug\net8.0\ASP.NET Lessons.pdb
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\rpswa.dswa.cache.json
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\ASP.NET Lessons.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\ASP.NET Lessons.AssemblyInfoInputs.cache
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\ASP.NET Lessons.AssemblyInfo.cs
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\ASP.NET Lessons.csproj.CoreCompileInputs.cache
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\ASP.NET Lessons.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\ASP.NET Lessons.RazorAssemblyInfo.cache
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\ASP.NET Lessons.RazorAssemblyInfo.cs
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\rjimswa.dswa.cache.json
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\scopedcss\bundle\ASP.NET Lessons.styles.css
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\scopedcss\projectbundle\ASP.NET Lessons.bundle.scp.css
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\staticwebassets.build.json
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\staticwebassets.development.json
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\ASP.NET Lessons.dll
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\refint\ASP.NET Lessons.dll
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\ASP.NET Lessons.pdb
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\ASP.NET Lessons.genruntimeconfig.cache
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\ref\ASP.NET Lessons.dll

@@ -1,0 +1,14 @@
+﻿@page
+@model ASP.NET_Lessons.Pages.Lessons.Lesson2.FeedbackModel
+@{
+}
+
+<form method="post">
+    <input asp-for="Feedback" placeholder="Type your feedback" required/>
+    <button type="submit">Send</button>
+</form>
+
+<br/>
+
+<h1>Your feedback: </h1>
+<p>@ViewBag.feedback</p>
