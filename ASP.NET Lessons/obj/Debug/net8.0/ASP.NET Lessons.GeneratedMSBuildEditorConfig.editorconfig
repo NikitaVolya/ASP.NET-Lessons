@@ -52,6 +52,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVzc29uc1xMZXNzb24yXFNlYXJjaC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[F:/Projects/asp-dot-net/ASP.NET Lessons/ASP.NET Lessons/Pages/Lessons/Lesson3/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVzc29uc1xMZXNzb24zXENvbnRhY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Projects/asp-dot-net/ASP.NET Lessons/ASP.NET Lessons/Pages/Lessons/Lesson3/NewLetter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVzc29uc1xMZXNzb24zXE5ld0xldHRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Projects/asp-dot-net/ASP.NET Lessons/ASP.NET Lessons/Pages/Lessons/Lesson3/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVzc29uc1xMZXNzb24zXFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Projects/asp-dot-net/ASP.NET Lessons/ASP.NET Lessons/Pages/Lessons/Lesson3/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVzc29uc1xMZXNzb24zXFN1Y2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Projects/asp-dot-net/ASP.NET Lessons/ASP.NET Lessons/Pages/Lessons/Lesson3/ThankYou.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVzc29uc1xMZXNzb24zXFRoYW5rWW91LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/Projects/asp-dot-net/ASP.NET Lessons/ASP.NET Lessons/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

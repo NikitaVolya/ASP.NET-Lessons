@@ -1,0 +1,28 @@
+﻿@page
+@model ASP.NET_Lessons.Pages.Lessons.Lesson3.ContactModel
+@{
+}
+
+
+<form method="post">
+    <div>
+        <label asp-for="FullName">FullName: </label>
+        <input asp-for="FullName" />
+        <span asp-validation-for="FullName"></span>
+    </div>
+    <div>
+        <label asp-for="Email">Email: </label>
+        <input asp-for="Email" />
+        <span asp-validation-for="Email"></span>
+    </div>
+    <div>
+        <label asp-for="Message">Message: </label>
+        <textarea asp-for="Message"></textarea>
+        <span asp-validation-for="Message"></span>
+    </div>
+    <button type="submit">Send</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -31,3 +31,4 @@ F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\refint\
 F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\ASP.NET Lessons.pdb
 F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\ASP.NET Lessons.genruntimeconfig.cache
 F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\ref\ASP.NET Lessons.dll
+F:\Projects\asp-dot-net\ASP.NET Lessons\ASP.NET Lessons\obj\Debug\net8.0\ASP.NET Lessons.sourcelink.json

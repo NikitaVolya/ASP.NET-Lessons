@@ -3,48 +3,24 @@
   "WorkspaceRootPath": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|f:\\projects\\asp-dot-net\\asp.net lessons\\asp.net lessons\\pages\\lessons\\lesson3\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|solutionrelative:asp.net lessons\\pages\\lessons\\lesson3\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|f:\\projects\\asp-dot-net\\asp.net lessons\\asp.net lessons\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|solutionrelative:asp.net lessons\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|f:\\projects\\asp-dot-net\\asp.net lessons\\asp.net lessons\\pages\\lessons\\lesson2\\feedback.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|solutionrelative:asp.net lessons\\pages\\lessons\\lesson2\\feedback.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|f:\\projects\\asp-dot-net\\asp.net lessons\\asp.net lessons\\pages\\lessons\\lesson3\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|solutionrelative:asp.net lessons\\pages\\lessons\\lesson3\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|f:\\projects\\asp-dot-net\\asp.net lessons\\asp.net lessons\\pages\\lessons\\lesson2\\product.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|solutionrelative:asp.net lessons\\pages\\lessons\\lesson2\\product.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|f:\\projects\\asp-dot-net\\asp.net lessons\\asp.net lessons\\pages\\lessons\\lesson3\\newletter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|solutionrelative:asp.net lessons\\pages\\lessons\\lesson3\\newletter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|f:\\projects\\asp-dot-net\\asp.net lessons\\asp.net lessons\\pages\\lessons\\lesson2\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|solutionrelative:asp.net lessons\\pages\\lessons\\lesson2\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|f:\\projects\\asp-dot-net\\asp.net lessons\\asp.net lessons\\pages\\lessons\\lesson2\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|solutionrelative:asp.net lessons\\pages\\lessons\\lesson2\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|f:\\projects\\asp-dot-net\\asp.net lessons\\asp.net lessons\\pages\\lessons\\lesson2\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|solutionrelative:asp.net lessons\\pages\\lessons\\lesson2\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|f:\\projects\\asp-dot-net\\asp.net lessons\\asp.net lessons\\pages\\lessons\\lesson2\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|solutionrelative:asp.net lessons\\pages\\lessons\\lesson2\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|f:\\projects\\asp-dot-net\\asp.net lessons\\asp.net lessons\\pages\\lessons\\lesson2\\hello.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|solutionrelative:asp.net lessons\\pages\\lessons\\lesson2\\hello.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|f:\\projects\\asp-dot-net\\asp.net lessons\\asp.net lessons\\pages\\lessons\\lesson2\\info.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|solutionrelative:asp.net lessons\\pages\\lessons\\lesson2\\info.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|f:\\projects\\asp-dot-net\\asp.net lessons\\asp.net lessons\\pages\\lessons\\lesson2\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|solutionrelative:asp.net lessons\\pages\\lessons\\lesson2\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|f:\\projects\\asp-dot-net\\asp.net lessons\\asp.net lessons\\pages\\lessons\\lesson2\\hello.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|solutionrelative:asp.net lessons\\pages\\lessons\\lesson2\\hello.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|f:\\projects\\asp-dot-net\\asp.net lessons\\asp.net lessons\\pages\\lessons\\lesson3\\newletter.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40F07A2-73EE-4C8C-8CC3-E2BCC8841365}|ASP.NET Lessons\\ASP.NET Lessons.csproj|solutionrelative:asp.net lessons\\pages\\lessons\\lesson3\\newletter.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,144 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "ASP.NET Lessons\\Pages\\Index.cshtml",
-              "ToolTip": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Index.cshtml",
-              "RelativeToolTip": "ASP.NET Lessons\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-03T16:48:02.629Z",
+              "Title": "Contact.cshtml.cs",
+              "DocumentMoniker": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson3\\Contact.cshtml.cs",
+              "RelativeDocumentMoniker": "ASP.NET Lessons\\Pages\\Lessons\\Lesson3\\Contact.cshtml.cs",
+              "ToolTip": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson3\\Contact.cshtml.cs",
+              "RelativeToolTip": "ASP.NET Lessons\\Pages\\Lessons\\Lesson3\\Contact.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T16:43:03.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Feedback.cshtml.cs",
-              "DocumentMoniker": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Feedback.cshtml.cs",
-              "RelativeDocumentMoniker": "ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Feedback.cshtml.cs",
-              "ToolTip": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Feedback.cshtml.cs",
-              "RelativeToolTip": "ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Feedback.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T16:42:38.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Feedback.cshtml",
-              "DocumentMoniker": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Feedback.cshtml",
-              "RelativeDocumentMoniker": "ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Feedback.cshtml",
-              "ToolTip": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Feedback.cshtml",
-              "RelativeToolTip": "ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Feedback.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Lessons\\Pages\\Index.cshtml",
+              "ToolTip": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ASP.NET Lessons\\Pages\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwCsAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-03T16:42:34.338Z",
+              "WhenOpened": "2025-09-07T16:41:21.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Product.cshtml.cs",
-              "DocumentMoniker": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Product.cshtml.cs",
-              "RelativeDocumentMoniker": "ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Product.cshtml.cs",
-              "ToolTip": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Product.cshtml.cs",
-              "RelativeToolTip": "ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Product.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T16:32:09.094Z",
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson3\\Success.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Lessons\\Pages\\Lessons\\Lesson3\\Success.cshtml",
+              "ToolTip": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson3\\Success.cshtml",
+              "RelativeToolTip": "ASP.NET Lessons\\Pages\\Lessons\\Lesson3\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T16:40:07.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Product.cshtml",
-              "DocumentMoniker": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Product.cshtml",
-              "RelativeDocumentMoniker": "ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Product.cshtml",
-              "ToolTip": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Product.cshtml",
-              "RelativeToolTip": "ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Product.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-03T16:31:31.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Contact.cshtml",
-              "RelativeDocumentMoniker": "ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Contact.cshtml",
-              "ToolTip": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Contact.cshtml",
-              "RelativeToolTip": "ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Contact.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-03T16:28:20.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Contact.cshtml.cs",
-              "DocumentMoniker": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Contact.cshtml.cs",
-              "RelativeDocumentMoniker": "ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Contact.cshtml.cs",
-              "ToolTip": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Contact.cshtml.cs",
-              "RelativeToolTip": "ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Contact.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "NewLetter.cshtml.cs",
+              "DocumentMoniker": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson3\\NewLetter.cshtml.cs",
+              "RelativeDocumentMoniker": "ASP.NET Lessons\\Pages\\Lessons\\Lesson3\\NewLetter.cshtml.cs",
+              "ToolTip": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson3\\NewLetter.cshtml.cs",
+              "RelativeToolTip": "ASP.NET Lessons\\Pages\\Lessons\\Lesson3\\NewLetter.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T16:28:23.51Z",
+              "WhenOpened": "2025-09-07T16:36:30.504Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Info.cshtml.cs",
-              "DocumentMoniker": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Info.cshtml.cs",
-              "RelativeDocumentMoniker": "ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Info.cshtml.cs",
-              "ToolTip": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Info.cshtml.cs",
-              "RelativeToolTip": "ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Info.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T16:27:02.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Info.cshtml",
-              "DocumentMoniker": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Info.cshtml",
-              "RelativeDocumentMoniker": "ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Info.cshtml",
-              "ToolTip": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Info.cshtml",
-              "RelativeToolTip": "ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Info.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "NewLetter.cshtml",
+              "DocumentMoniker": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson3\\NewLetter.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Lessons\\Pages\\Lessons\\Lesson3\\NewLetter.cshtml",
+              "ToolTip": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson3\\NewLetter.cshtml",
+              "RelativeToolTip": "ASP.NET Lessons\\Pages\\Lessons\\Lesson3\\NewLetter.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-03T16:26:58.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Hello.cshtml.cs",
-              "DocumentMoniker": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Hello.cshtml.cs",
-              "RelativeDocumentMoniker": "ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Hello.cshtml.cs",
-              "ToolTip": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Hello.cshtml.cs",
-              "RelativeToolTip": "ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Hello.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T16:24:26.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Hello.cshtml",
-              "DocumentMoniker": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Hello.cshtml",
-              "RelativeDocumentMoniker": "ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Hello.cshtml",
-              "ToolTip": "F:\\Projects\\asp-dot-net\\ASP.NET Lessons\\ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Hello.cshtml",
-              "RelativeToolTip": "ASP.NET Lessons\\Pages\\Lessons\\Lesson2\\Hello.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-03T16:24:16.385Z",
+              "WhenOpened": "2025-09-07T16:36:27.563Z",
               "EditorCaption": ""
             }
           ]

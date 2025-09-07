@@ -1,0 +1,11 @@
+﻿@page
+@model ASP.NET_Lessons.Pages.Lessons.Lesson3.SuccessModel
+@{
+}
+
+<h1>Registration Successful</h1>
+
+@if (TempData["Message"] != null)
+{
+    <div>@TempData["Message"]</div>
+}

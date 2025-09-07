@@ -1,0 +1,15 @@
+﻿@page
+@model ASP.NET_Lessons.Pages.Lessons.Lesson3.NewLetterModel
+@{
+}
+
+<form method="post">
+    <label asp-for="Email"></label>
+    <input asp-for="Email" />
+    <span asp-validation-for="Email"></span>
+    <button type="submit">Subscribe</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
