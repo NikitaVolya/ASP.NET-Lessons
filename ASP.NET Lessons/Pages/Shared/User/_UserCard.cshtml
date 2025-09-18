@@ -1,0 +1,12 @@
+﻿@{
+}
+
+@model ASP_NET_Lessons.Models.User
+
+<a asp-page="/Lessons/Lesson4/Exercice2/User" asp-route-id="@Model.Id">
+    <div class="user-card" style="border:1px solid #ccc; padding:10px; border-radius:8px; width:200px; text-align:center">
+        <img src="@Model.AvatarUrl" alt="@Model.Name" style="width:80px; height:80px; border-radius:50%; object-fit:cover;" />
+        <h3>@Model.Name</h3>
+        <p>@Model.Email</p>
+    </div>
+</a>

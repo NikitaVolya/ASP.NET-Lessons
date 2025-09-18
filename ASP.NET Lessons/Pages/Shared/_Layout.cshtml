@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/ASP.NET_Lessons.styles.css" asp-append-version="true" />
+    @await RenderSectionAsync("HeadExtra", required: false)
 </head>
 <body>
     <header>
@@ -30,7 +31,10 @@
             </div>
         </nav>
     </header>
+    <aside style="width:250px; background:#f5f5f5; padding:10px">
+    </aside>
     <div class="container">
+        @await RenderSectionAsync("SideBar", required: false)
         <main role="main" class="pb-3">
             @RenderBody()
         </main>

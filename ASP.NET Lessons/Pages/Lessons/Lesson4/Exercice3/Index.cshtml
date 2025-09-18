@@ -1,0 +1,32 @@
+﻿@page
+@model ASP.NET_Lessons.Pages.Lessons.Lesson4.Exercice2.IndexModel
+
+<h1>User list</h1>
+<table id="usersTable">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model.Users)
+        {
+            <tr>
+                <td>
+                    <a asp-page="/Lessons/Lesson4/Exercice3/User" asp-route-id="@user.Id">@user.Name</a>
+                </td>
+                <td>@user.Email</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#usersTable").DataTable();
+        });
+    </script>
+}

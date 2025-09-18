@@ -1,0 +1,13 @@
+﻿@page "{id:int}"
+@model ASP.NET_Lessons.Pages.Lessons.Lesson4.Exercice2.UserModel
+
+<h1>@Model.User.Name</h1>
+<img id="avatar" src="@Model.User.AvatarUrl" alt="@Model.User.Name" width="150" />
+
+@section Scripts {
+    <script>
+        document.getElementById("avatar").addEventListener("click", function () {
+            alert("Avatar clicked!");
+        });
+    </script>
+}

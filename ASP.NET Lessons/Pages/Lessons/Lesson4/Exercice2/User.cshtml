@@ -1,0 +1,15 @@
+﻿@page "/lessons/lesson4/exerice2/user/{id:int}"
+@model ASP.NET_Lessons.Pages.Lessons.Lesson4.Exercice2.UserModel
+@{
+}
+
+@section SideBar {
+    @if (Model.User != null)
+    {
+        @await Html.PartialAsync("User/_UserCard", Model.User)
+    }
+    else
+    {
+        <h1>User not found</h1>
+    }
+}
